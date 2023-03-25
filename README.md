@@ -17,8 +17,9 @@ cd send-a-messege-to-scammer
 
 2. Install the dependencies:
 
-```npm install```
-
+```bash
+npm install
+```
 3. Create a `.env` file in the root folder of your project and add your private keys and project ID:
 
 ```ini
